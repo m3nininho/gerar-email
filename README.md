@@ -27,18 +27,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <h3 align="center">Validação feita</h3>
 <p align="center">
 <br>
-  <img alt="rocketpay" src="./assets/adicionado02.png" width="100%">
+  <img alt="rocketpay" src="./assets/validacao1.png" width="100%">
 </p>
 <br>
 
 <br>
-<h3 align="center">Faixa etária</h3>
+<h3 align="center">Após a validação </h3>
 <p align="center">
 <br>
-  <img alt="rocketpay" src="./assets/resumo-das-criancas.png" width="100%">
+  <img alt="rocketpay" src="./assets/validacao2.png" width="100%">
 </p>
 <br>
 
 ## 💻 Projeto
 
-A ideia do programa **Brinquedoteca**, foi retirado do livro **Lógica de Programação e Algoritmos com JavaScript** da editora **Novatec**. O programa foi alterado de forma totalmente pessoal para o treino das tecnologias utilizadas.
+A ideia do programa **Gerar e-mail**, foi retirado do livro **Lógica de Programação e Algoritmos com JavaScript** da editora **Novatec**. O programa foi alterado de forma totalmente pessoal para o treino das tecnologias utilizadas.
